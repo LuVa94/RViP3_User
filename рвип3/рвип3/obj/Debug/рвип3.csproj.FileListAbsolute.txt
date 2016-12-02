@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\bin\Debug\рвип3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\bin\Debug\рвип3.exe
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\bin\Debug\рвип3.pdb
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\obj\Debug\рвип3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\obj\Debug\рвип3.exe
+c:\users\user\documents\visual studio 2013\Projects\рвип3\рвип3\obj\Debug\рвип3.pdb
